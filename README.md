@@ -1,2 +1,2 @@
 # yes_or_no_bot
-Telegram bot that answers questions and sends gifs
+Telegram bot that responds to user yes/no messages (very rarely - maybe) and sends a corresponding gif
